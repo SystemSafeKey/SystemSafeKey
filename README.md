@@ -1,16 +1,14 @@
-## Hi there 👋
+### Safe Key
 
-<!--
-**SystemSafeKey/SystemSafeKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Safe Key é um programa projetado para criar senhas únicas, fortes e seguras com apenas um clique. 
 
-Here are some ideas to get you started:
+### Ano de Criação: 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvedor: Natan Pereira
+
+### Sistemas Operacionais:
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
+
+### Linguagens: 
+Atual: Portugol  
+Futuro: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
